@@ -1,7 +1,5 @@
 # Transfer Learning for Music Genre Classification
 
-# Overview
-
 # Prerequisites and Dependencies
 You will need the following packages to run the code. To install the packages used in this project, run the following command.
 ```
@@ -18,6 +16,7 @@ $ python setup.py install
 ```
 Our code is based on python version 3.6
 
+From Librosa github (https://github.com/librosa/librosa)
 If you are using Anaconda, install *ffmpeg* by calling
 ```
 conda install -c conda-forge ffmpeg
@@ -33,9 +32,7 @@ If you are not using Anaconda, here are some common commands for different opera
 # Running the code
 
 To test and run this code, you will need the following:
-  * data.txt  //TODO link data.txt
-  * corresponding images in .png format that matches the `data.txt` //TODO link images 
-  * svm.py
+* jupyter notebook
 
 
 # Credit 
